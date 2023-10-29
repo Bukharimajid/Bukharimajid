@@ -8,3 +8,4 @@ gh api --paginate 'orgs/{owner}/teams/TEAM/members' --jq '.[].login'- 👋 Hi, I
 Bukharimajid/Bukharimajid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+https://kali.download/nethunterpro-images/kali-2023.2/nethunterpro-2023.2-pinephone-phosh.img.tar.xz.torrent
